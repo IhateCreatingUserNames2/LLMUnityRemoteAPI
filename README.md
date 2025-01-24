@@ -20,6 +20,8 @@
 	LLMUnity uses /completion and /template
 	In app.js there is a RAG feature using OpenAI Embeddings and PineCone Vector Database. C
 	In App_no_rag.js there is no RAG Feature. Only endpoints. 
+
+***** This example also hosts a index.html with a /chatbot endpoint, where u can talk with the LLM(test it)
  
 
 *********** BE AWARE THAT THIS EXAMPLE CODE IS NOT VERY GOOD AND MAY HAVE SOME ISSUES with the /template endpoint ***** 
