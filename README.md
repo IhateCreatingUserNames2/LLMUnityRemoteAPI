@@ -10,7 +10,7 @@
 		Add Host = Your NodeJS Server Host 
                 port: 443 
 
-	![image](https://github.com/user-attachments/assets/98d500d4-a4a7-4c7c-be38-bca5e4af821c)
+![image](https://github.com/user-attachments/assets/98d500d4-a4a7-4c7c-be38-bca5e4af821c)
 
 
 
