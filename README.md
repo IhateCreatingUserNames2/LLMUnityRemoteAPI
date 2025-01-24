@@ -12,10 +12,10 @@
 
 
 
-In this example, im using Render.com to Host the NodeServer
-In this Example App.js has 4 Endpoints, /chatbot, /chat, /completion, /template
-LLMUnity uses /completion and /template
-In app.js there is a RAG feature using OpenAI Embeddings and PineCone Vector Database. C
-In App_no_rag.js there is no RAG Feature. Only endpoints. 
+	In this example, im using Render.com to Host the NodeServer
+	In this Example App.js has 4 Endpoints, /chatbot, /chat, /completion, /template
+	LLMUnity uses /completion and /template
+	In app.js there is a RAG feature using OpenAI Embeddings and PineCone Vector Database. C
+	In App_no_rag.js there is no RAG Feature. Only endpoints. 
 
 *********** BE AWARE THAT THIS EXAMPLE CODE IS NOT VERY GOOD AND MAY HAVE SOME ISSUES with the /template endpoint ***** 
