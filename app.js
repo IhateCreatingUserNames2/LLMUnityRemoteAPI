@@ -10,7 +10,7 @@ const PORT = process.env.PORT || 3000;
 const MINI_MAX_API_KEY = process.env.MiniMax_API_KEY;
 const PINECONE_API_KEY = process.env.PINECONE_API_KEY;
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY; // For OpenAI Embedding API
-const PINECONE_HOST = "https://ada-xek6roj.svc.aped-4627-b74a.pinecone.io"; // Your Pinecone host
+const PINECONE_HOST = "PINE_CONE_HOST"; // Your Pinecone host
 const INDEX_NAME = "ada";
 
 if (!MINI_MAX_API_KEY || !PINECONE_API_KEY || !OPENAI_API_KEY) {
